@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReverseClient", "StringReverseApp\StringReverseClient.csproj", "{D1A3B172-D07E-4B16-B660-EA2EA422B934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReverse.API", "StringReverse.API\StringReverse.API.csproj", "{7EF5B47B-D017-4181-903E-D956A7D62630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1A3B172-D07E-4B16-B660-EA2EA422B934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A3B172-D07E-4B16-B660-EA2EA422B934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A3B172-D07E-4B16-B660-EA2EA422B934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A3B172-D07E-4B16-B660-EA2EA422B934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF5B47B-D017-4181-903E-D956A7D62630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF5B47B-D017-4181-903E-D956A7D62630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF5B47B-D017-4181-903E-D956A7D62630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF5B47B-D017-4181-903E-D956A7D62630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E8306DA-1C17-4010-9D4F-7F4F39584F59}
+	EndGlobalSection
+EndGlobal
