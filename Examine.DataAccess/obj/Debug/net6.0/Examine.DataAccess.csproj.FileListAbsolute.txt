@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ExamineApp\Examine.DataAccess\bin\Debug\net6.0\Examine.DataAccess.deps.json
+C:\Users\User\source\repos\ExamineApp\Examine.DataAccess\bin\Debug\net6.0\Examine.DataAccess.runtimeconfig.json
+C:\Users\User\source\repos\ExamineApp\Examine.DataAccess\bin\Debug\net6.0\Examine.DataAccess.dll
+C:\Users\User\source\repos\ExamineApp\Examine.DataAccess\bin\Debug\net6.0\Examine.DataAccess.pdb
+C:\Users\User\source\repos\ExamineApp\Examine.DataAccess\obj\Debug\net6.0\Examine.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ExamineApp\Examine.DataAccess\obj\Debug\net6.0\Examine.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ExamineApp\Examine.DataAccess\obj\Debug\net6.0\Examine.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExamineApp\Examine.DataAccess\obj\Debug\net6.0\Examine.DataAccess.AssemblyInfo.cs
+C:\Users\User\source\repos\ExamineApp\Examine.DataAccess\obj\Debug\net6.0\Examine.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExamineApp\Examine.DataAccess\obj\Debug\net6.0\Examine.DataAccess.dll
+C:\Users\User\source\repos\ExamineApp\Examine.DataAccess\obj\Debug\net6.0\refint\Examine.DataAccess.dll
+C:\Users\User\source\repos\ExamineApp\Examine.DataAccess\obj\Debug\net6.0\Examine.DataAccess.pdb
+C:\Users\User\source\repos\ExamineApp\Examine.DataAccess\obj\Debug\net6.0\Examine.DataAccess.genruntimeconfig.cache
+C:\Users\User\source\repos\ExamineApp\Examine.DataAccess\obj\Debug\net6.0\ref\Examine.DataAccess.dll
